@@ -105,5 +105,6 @@ This program adheres to the following basic code specifications:
 
 ## License / 许可证
 
-[Add your license information here, e.g., MIT License etc.]
-[在此处添加您的许可证信息，例如 MIT 许可证等] 
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+
+本项目采用 MIT 许可证 - 有关详细信息，请参阅 [LICENSE.md](LICENSE.md) 文件。 
